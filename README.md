@@ -18,5 +18,5 @@ To run this project on your local machine, follow these steps.
 
 **1. Clone the repository:**
 ```bash
-git clone <[your-github-repo-url](https://github.com/veerChaudhary0708/Neural-Artistic-Style-Transfer-)>
+git clone <(https://github.com/veerChaudhary0708/Neural-Artistic-Style-Transfer-)>
 cd <Neural-Artistic-Style-Transfer>
